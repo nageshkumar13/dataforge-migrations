@@ -1,2 +1,1 @@
-# trainingRepo
-Just a training repo 
+# trainTo 
